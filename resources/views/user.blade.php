@@ -16,6 +16,7 @@
 </nav> --}}
 
 <!--parallax-->
+
 <div class="parallax" data-parallax="scroll" data-z-index="-1" data-image-src="1dark.jpg">
 <div class="heading">
 	From the team that brought you Mystery Manila <img src="2.png" width="50" height="70">

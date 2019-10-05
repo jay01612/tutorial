@@ -17,7 +17,7 @@
 
 Route::get('/', 'mainController@user');	
 
-Route::get('test', 'booking@hello');
+Route::get('test', 'bookingController@hello');
 
 
 Route::get('/signup', 'mainController@signup');

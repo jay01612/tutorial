@@ -11,7 +11,6 @@ class booking extends Model
 
 
     public static function saveBookingData($data, $referenceNumber){
-    	return false;
     	return booking::insert([
     		'reference_number' => $referenceNumber,
     		'book_date' => $data->date,
